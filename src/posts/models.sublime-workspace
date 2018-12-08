@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cs",
+				"cstring\tstandard header"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"c",
+				"cstdlib\tstandard header"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pair",
+				"pair_hash"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"shortest",
+				"shortestPath"
+			],
+			[
+				"order",
+				"order_of_key"
+			],
+			[
+				"rea",
+				"readysum"
+			],
+			[
+				"re",
+				"readysum"
+			],
+			[
+				"ready",
+				"readysum"
+			],
+			[
+				"wait",
+				"waitsum"
+			],
+			[
+				"wa",
+				"wait"
+			],
+			[
+				"max",
+				"maxv"
+			],
+			[
+				"a",
+				"alpha"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"cu",
+				"cur_indx"
+			],
+			[
+				"cur_",
+				"cur_indx"
+			],
+			[
+				"exp",
+				"exp_m"
+			],
+			[
+				"cou",
+				"countdigi"
+			],
+			[
+				"get",
+				"getaFactorization"
+			],
+			[
+				"flg",
+				"flag"
+			],
+			[
+				"falg",
+				"flagi"
+			],
+			[
+				"fla",
+				"flagi"
+			],
+			[
+				"fl",
+				"flag"
+			],
+			[
+				"mxa",
+				"maxa"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"e",
+				"evensum"
+			],
+			[
+				"b",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"ncr",
+				"nCrModPFermat"
+			],
+			[
+				"pri",
+				"printShortestDistance"
+			],
+			[
+				"is",
+				"isSquare"
+			],
+			[
+				"poi",
+				"Point"
+			],
+			[
+				"cot",
+				"cost"
+			],
+			[
+				"BFS",
+				"BFS1"
+			],
+			[
+				"fo",
+				"forv\tVector For Loop"
+			],
+			[
+				"mid",
+				"midmax"
+			],
+			[
+				"l",
+				"lastColor"
+			],
+			[
+				"asum",
+				"asum-bsum"
+			],
+			[
+				"as",
+				"asum-bsum"
+			],
+			[
+				"lo",
+				"localOn"
+			],
+			[
+				"min",
+				"mincost"
+			],
+			[
+				"cos",
+				"coster"
+			],
+			[
+				"str",
+				"start"
+			],
+			[
+				"vl",
+				"vala"
+			],
+			[
+				"ma",
+				"maxlimit"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"st",
+				"step"
+			],
+			[
+				"df",
+				"dfs2"
+			],
+			[
+				"vi",
+				"visited"
+			],
+			[
+				"src",
+				"srcind"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"wal",
+				"walkr"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"curr_",
+				"curr_node"
+			],
+			[
+				"be",
+				"beauty"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"ans",
+				"ans2"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"noe",
+				"Node"
+			],
+			[
+				"fr",
+				"freeSuffixTreeByPostOrder"
+			],
+			[
+				"suff",
+				"suffixIndex"
+			],
+			[
+				"su",
+				"suffixIndex"
+			],
+			[
+				"act",
+				"activeNode"
+			],
+			[
+				"acti",
+				"activeNode"
+			],
+			[
+				"active",
+				"activeNode"
+			],
+			[
+				"activ",
+				"activeLength"
+			],
+			[
+				"la",
+				"lastNewNode"
+			],
+			[
+				"aci",
+				"activeNode"
+			],
+			[
+				"spl",
+				"splitEnd"
+			],
+			[
+				"ac",
+				"activeLength"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"root",
+				"rootEnd"
+			],
+			[
+				"actve",
+				"activeNode"
+			],
+			[
+				"node",
+				"Node"
+			],
+			[
+				"suffix",
+				"suffixIndex"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"MAX",
+				"MAXS"
+			],
+			[
+				"cn",
+				"center"
+			],
+			[
+				"cent",
+				"centerR"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"add",
+				"addEdge"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"ele",
+				"else"
+			],
+			[
+				"t",
+				"typedef"
+			],
+			[
+				"en",
+				"energy"
+			],
+			[
+				"fib",
+				"fibp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/DELL/Desktop/had.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"settig",
+				"Preferences: Settings"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"code",
+				"Code Folding: Unfold All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 106.0,
+		"history":
+		[
+			"exit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Desktop/had.cpp",
+		"/C/Users/DELL/Desktop/blog/src/blog/settings.py",
+		"/C/Users/DELL/Desktop/blog/src/manage.py",
+		"/C/Users/DELL/Desktop/blog/src/blog/wsgi.py",
+		"/C/Users/DELL/Desktop/blog/src/blog/urls.py",
+		"/C/Users/DELL/Desktop/blog/Lib/site-packages/django/core/management/base.py",
+		"/C/Users/DELL/Desktop/blog/Lib/site-packages/django/conf/global_settings.py",
+		"/C/Users/DELL/Desktop/blog/src/posts/models.py",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_4.c",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/6_mpi_array.c",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_3.c",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/7_mpi_prime.c",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_8.c",
+		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_7.c",
+		"/C/Users/DELL/Desktop/tesla-speedometer-master/teslahud.js",
+		"/C/Users/DELL/Desktop/work.html",
+		"/C/Users/DELL/Desktop/CODE.CPP",
+		"/C/Users/DELL/Desktop/inp.in",
+		"/C/Users/DELL/Desktop/jam.cpp",
+		"/C/Users/DELL/Desktop/a.in",
+		"/C/Users/DELL/Desktop/code.cpp",
+		"/C/Users/DELL/Desktop/alter.cpp",
+		"/C/Users/DELL/Desktop/tt.cpp",
+		"/C/Users/DELL/Desktop/competitive/MergeSortTree.cpp",
+		"/C/Users/DELL/Desktop/competitive/Segment_Tree(using array).cpp",
+		"/C/Users/DELL/Desktop/codefoces.cpp",
+		"/C/Users/DELL/Desktop/spoj.cpp",
+		"/C/Users/DELL/Desktop/abc.cpp",
+		"/C/Program Files/Sublime Text 3/SpeedBreakerArduinoCode.uno",
+		"/C/Users/DELL/Desktop/arduino.ino",
+		"/C/Users/DELL/Desktop/competitive/PBDS.cpp",
+		"/C/Users/DELL/Desktop/Mdir/StringUniquenessMinimization.cpp",
+		"/C/Users/DELL/Desktop/MyTemplate.cpp",
+		"/C/Users/DELL/Desktop/Mdir/VerticaLimit.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Tofee.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Stock-Buy-Sell.cpp",
+		"/C/Users/DELL/Desktop/Mdir/StringToNumber.cpp",
+		"/C/Users/DELL/Desktop/Mdir/String-DFS.cpp",
+		"/C/Users/DELL/Desktop/Mdir/String-DFS-A_B.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Bestsoduku.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Compressed-Strings.cpp",
+		"/C/Users/DELL/Desktop/Mdir/SimpleCipher.cpp",
+		"/C/Users/DELL/Desktop/Mdir/queue-n2-approach.cpp",
+		"/C/Users/DELL/Desktop/Mdir/maximum-path-sum.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Lexo_Small.cpp",
+		"/C/Users/DELL/Desktop/Mdir/Lazy_Tree.cpp",
+		"/C/Users/DELL/Desktop/Mdir/KingdomRoad.cpp",
+		"/C/Users/DELL/Desktop/Mdir/GuessYourWayOut.cpp",
+		"/C/Users/DELL/Desktop/Mdir/DUmbSum.cpp",
+		"/C/Users/DELL/Desktop/Mdir/BerryCakes.cpp",
+		"/C/Users/DELL/Desktop/Mdir/StandardKnapsack.cpp",
+		"/C/Users/DELL/Desktop/Mdir/ProbabilisticPreoderTraversal.cpp",
+		"/C/Users/DELL/Desktop/Mdir/BoggleTrieGrid.cpp",
+		"/C/Program Files/Sublime Text 3/MyTemplate.cpp",
+		"/C/Users/DELL/Desktop/contest.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-25/StandardKnapsack.cpp",
+		"/C/Users/DELL/Desktop/bat1.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-25/KingdomRoad.cpp",
+		"/C/Users/DELL/Desktop/competitive/dsu.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-25/Lazy_Tree.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-25/StringUniquenessMinimization.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 9/StringToNumber.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 9/SimpleCipher.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 9/GuessYourWayOut.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 9/DUmbSum.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 9/VerticaLimit.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 8/Tofee.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 8/BerryCakes.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set 7/ProbabilisticPreoderTraversal.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-6/Lexo_Small.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-6/String-DFS.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-6/Compressed-String-My.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-6/Compressed-Strings.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-5/stringabc.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-2/queue-n2-approach.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-2/queue-n2-approach",
+		"/C/Users/DELL/Desktop/Mdir/set-1/Excel-Sheet.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-1/Stock-Buy-Sell.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-1/maximum-path-sum.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-1/binary-tree.cpp",
+		"/C/Users/DELL/Desktop/Mdir/set-1/bin_tree",
+		"/C/Users/DELL/Desktop/test.cpp",
+		"/C/Program Files/Sublime Text 3/a.cpp",
+		"/C/Program Files/Sublime Text 3/contest.cpp",
+		"/C/Program Files/Sublime Text 3/fl.cpp",
+		"/C/Program Files/Sublime Text 3/dp.cpp",
+		"/C/Program Files/Sublime Text 3/file.cpp",
+		"/C/Users/DELL/Desktop/DVRouting.txt",
+		"/C/Users/DELL/Desktop/DVRouting.java",
+		"/C/Program Files/Sublime Text 3/DVRouting.java",
+		"/C/Program Files/Sublime Text 3/atcoder.cpp",
+		"/C/Program Files/Sublime Text 3/convex_hull_dp.cpp",
+		"/C/Users/DELL/Desktop/mood.cpp",
+		"/C/Program Files/Sublime Text 3/lcs.cpp",
+		"/C/Program Files/Sublime Text 3/code.cpp",
+		"/C/Program Files/Sublime Text 3/hills.cpp",
+		"/C/Users/DELL/Desktop/inputting_file.txt",
+		"/C/Users/DELL/Desktop/coder.cpp",
+		"/C/Users/DELL/Desktop/bb.txt",
+		"/C/Program Files/Sublime Text 3/test.cpp",
+		"/C/Users/DELL/Desktop/team.cpp",
+		"/C/Users/DELL/Desktop/fresh.cpp",
+		"/C/Users/DELL/Desktop/dp.cpp",
+		"/C/Users/DELL/Desktop/d.cpp",
+		"/C/Users/DELL/Desktop/b.cpp",
+		"/C/Users/DELL/Desktop/competitive/Condensed_Graph.cpp",
+		"/C/Users/DELL/Desktop/file.cpp",
+		"/C/Users/DELL/Desktop/hey.cpp",
+		"/C/Users/DELL/Desktop/fp.cpp",
+		"/C/Users/DELL/Desktop/sat.cpp",
+		"/C/Users/DELL/Desktop/stages.cpp",
+		"/C/Users/DELL/Desktop/f.cpp",
+		"/C/Users/DELL/Desktop/c.cpp",
+		"/C/Users/DELL/Desktop/ans.cpp",
+		"/C/Users/DELL/Desktop/inna.cpp",
+		"/C/Users/DELL/Desktop/b.txt.txt",
+		"/C/Users/DELL/Desktop/a.cpp",
+		"/C/Users/DELL/Desktop/a.txt.txt",
+		"/C/Users/DELL/Desktop/a.cpp.cpp",
+		"/C/Users/DELL/Desktop/problem.cpp",
+		"/C/Users/DELL/Desktop/file2.cpp",
+		"/C/Users/DELL/Desktop/cc.cpp",
+		"/C/Users/DELL/Downloads/output.txt",
+		"/C/Users/DELL/Downloads/interception_source.txt",
+		"/C/Users/DELL/Desktop/interception.cpp",
+		"/C/Users/DELL/Desktop/factorisation.cpp",
+		"/C/Users/DELL/Desktop/magic.cpp",
+		"/C/Users/DELL/Desktop/file.ccpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/DELL/Desktop/had.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -4,78 +4,6 @@
 		"selected_items":
 		[
 			[
-				"quer",
-				"query"
-			],
-			[
-				"q",
-				"query"
-			],
-			[
-				"is",
-				"is_superuser"
-			],
-			[
-				"H",
-				"Http404"
-			],
-			[
-				"Po",
-				"PostManager"
-			],
-			[
-				"au",
-				"auto_now_add"
-			],
-			[
-				"co",
-				"content"
-			],
-			[
-				"n",
-				"new_slug"
-			],
-			[
-				"slu",
-				"slug"
-			],
-			[
-				"he",
-				"height_field"
-			],
-			[
-				"h",
-				"height_field"
-			],
-			[
-				"pa",
-				"paginator"
-			],
-			[
-				"pag",
-				"paginator"
-			],
-			[
-				"P",
-				"PageNotAnInteger"
-			],
-			[
-				"url",
-				"urlpatterns"
-			],
-			[
-				"get",
-				"get_absolute_url"
-			],
-			[
-				"post_",
-				"post_detail"
-			],
-			[
-				"po",
-				"post_delete"
-			],
-			[
 				"cs",
 				"cstring\tstandard header"
 			],
@@ -164,6 +92,10 @@
 				"countdigi"
 			],
 			[
+				"get",
+				"getaFactorization"
+			],
+			[
 				"flg",
 				"flag"
 			],
@@ -206,6 +138,10 @@
 			[
 				"pri",
 				"printShortestDistance"
+			],
+			[
+				"is",
+				"isSquare"
 			],
 			[
 				"poi",
@@ -290,6 +226,10 @@
 			[
 				"wal",
 				"walkr"
+			],
+			[
+				"co",
+				"cost"
 			],
 			[
 				"curr_",
@@ -412,6 +352,10 @@
 				"title\tTag"
 			],
 			[
+				"h",
+				"head\tTag"
+			],
+			[
 				"ele",
 				"else"
 			],
@@ -432,52 +376,17 @@
 	"buffers":
 	[
 		{
-			"file": "src/posts/views.py",
+			"file": "forms.py",
 			"settings":
 			{
-				"buffer_size": 3088,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/post_list.html",
-			"settings":
-			{
-				"buffer_size": 2116,
-				"encoding": "UTF-8",
+				"buffer_size": 192,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/posts/models.py",
-			"settings":
-			{
-				"buffer_size": 1980,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"build_system_choices":
 	[
-		[
-			[
-				[
-					"Packages/C++/C++ Single File.sublime-build",
-					""
-				],
-				[
-					"Packages/C++/C++ Single File.sublime-build",
-					"Run"
-				]
-			],
-			[
-				"Packages/C++/C++ Single File.sublime-build",
-				"Run"
-			]
-		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -550,31 +459,36 @@
 	"expanded_folders":
 	[
 		"/C/Users/DELL/Desktop/Jango",
-		"/C/Users/DELL/Desktop/Jango/media_cdn",
 		"/C/Users/DELL/Desktop/Jango/src",
-		"/C/Users/DELL/Desktop/Jango/src/myproject",
-		"/C/Users/DELL/Desktop/Jango/src/posts",
-		"/C/Users/DELL/Desktop/Jango/src/templates"
+		"/C/Users/DELL/Desktop/Jango/src/posts"
 	],
 	"file_history":
 	[
-		"/C/Users/DELL/Desktop/Jango/src/templates/post_detail.html",
-		"/C/Users/DELL/Desktop/Jango/src/posts/forms.py",
-		"/C/Users/DELL/Desktop/Jango/src/templates/base.html",
-		"/C/Users/DELL/Desktop/Jango/src/templates/post_list.html",
-		"/C/Users/DELL/Desktop/Jango/src/posts/urls.py",
-		"/C/Users/DELL/Desktop/Jango/src/posts/models.py",
-		"/C/Users/DELL/Desktop/Jango/src/templates/post_form.html",
-		"/C/Users/DELL/Desktop/Jango/src/posts/templatetags/urlify.py",
-		"/C/Users/DELL/Desktop/Jango/src/posts/templatetags/__init__.py",
-		"/C/Users/DELL/Desktop/Jango/src/myproject/settings.py",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/DELL/Desktop/Jango/src/manage.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/utils/translation/trans_real.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/utils/timesince.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/utils/jslex.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/utils/feedgenerator.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/http/response.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/db/migrations/graph.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/core/management/base.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/contrib/staticfiles/storage.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.po",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.mo",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/conf/project_template/project_name/urls.py",
+		"/C/Users/DELL/Desktop/Jango/Lib/site-packages/django/conf/global_settings.py",
+		"/C/Users/DELL/Desktop/Jango/src/myproject/wsgi.py",
 		"/C/Users/DELL/Desktop/Jango/src/myproject/urls.py",
-		"/C/Users/DELL/Desktop/Jango/src/posts/views.py",
-		"/C/Users/DELL/Desktop/Jango/src/static/css/base.css",
-		"/C/Users/DELL/Desktop/Jango/src/templates/messages_display.html",
-		"/C/Users/DELL/Desktop/Jango/src/templates/index.html",
-		"/C/Users/DELL/Desktop/Jango/src/crud.md",
-		"/C/Users/DELL/Desktop/Jango/src/posts/admin.py",
+		"/C/Users/DELL/Desktop/Jango/src/myproject/settings.py",
+		"/C/Users/DELL/Desktop/had.cpp",
+		"/C/Users/DELL/Desktop/blog/src/blog/settings.py",
+		"/C/Users/DELL/Desktop/blog/src/manage.py",
+		"/C/Users/DELL/Desktop/blog/src/blog/wsgi.py",
+		"/C/Users/DELL/Desktop/blog/src/blog/urls.py",
+		"/C/Users/DELL/Desktop/blog/Lib/site-packages/django/core/management/base.py",
+		"/C/Users/DELL/Desktop/blog/Lib/site-packages/django/conf/global_settings.py",
+		"/C/Users/DELL/Desktop/blog/src/posts/models.py",
 		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_4.c",
 		"/C/Users/DELL/Desktop/SEM V/p_computing/6_mpi_array.c",
 		"/C/Users/DELL/Desktop/SEM V/p_computing/example_1_3.c",
@@ -677,15 +591,7 @@
 		"/C/Users/DELL/Desktop/hey.cpp",
 		"/C/Users/DELL/Desktop/fp.cpp",
 		"/C/Users/DELL/Desktop/sat.cpp",
-		"/C/Users/DELL/Desktop/stages.cpp",
-		"/C/Users/DELL/Desktop/f.cpp",
-		"/C/Users/DELL/Desktop/c.cpp",
-		"/C/Users/DELL/Desktop/ans.cpp",
-		"/C/Users/DELL/Desktop/inna.cpp",
-		"/C/Users/DELL/Desktop/b.txt.txt",
-		"/C/Users/DELL/Desktop/a.cpp",
-		"/C/Users/DELL/Desktop/a.txt.txt",
-		"/C/Users/DELL/Desktop/a.cpp.cpp"
+		"/C/Users/DELL/Desktop/stages.cpp"
 	],
 	"find":
 	{
@@ -696,6 +602,7 @@
 		"height": 160.0,
 		"where_history":
 		[
+			"C:\\Users\\DELL\\Desktop\\Jango"
 		]
 	},
 	"find_state":
@@ -703,8 +610,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"template",
-			"index"
+			"blog"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -712,6 +618,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"myproject"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -722,94 +629,35 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/posts/views.py",
-					"semi_transient": false,
+					"file": "forms.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 3088,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1603,
-								1603
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 624.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/templates/post_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2116,
-								2116
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 659.2,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/posts/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1980,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								330,
-								330
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -821,7 +669,7 @@
 	},
 	"input":
 	{
-		"height": 68.8
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -846,16 +694,12 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 138.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Jango.sublime-project",
+	"project": "apps.sublime-project",
 	"replace":
 	{
 		"height": 44.0
@@ -896,7 +740,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 184.0,
+	"side_bar_width": 176.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
