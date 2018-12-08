@@ -20,7 +20,7 @@
 									    <img src = '{{ obj.image.url }}' class='img-responsive' />
 									    {% endif %}
 
-									    <div class="caption">
+									    <div class="caption post-detail-item">
 									    	{% if obj.draft %}
 									    	<h3>Staff Only:Draft</h3>{% endif %} {% if obj.publish.date > today %}<h3> Staff Only: Future Post </h3>{% endif %}
 									    	
@@ -33,8 +33,8 @@
 									        <p>Author: {{ obj.user.get_full_name }}</p>
 									        {% endif %}
 
-									        <p>{{obj.content | linebreaks | truncatechars:120 }}</p>
-									    	<p><a href="{{ obj.get_absolute_url}}" class="btn btn-primary" role="button"> View</a></p>
+									        {{obj.get_markdown  }}</p>
+									    	<a href="{{ obj.get_absolute_url}}" class="btn btn-primary" role="button"> View</a></p>
 									    </div>
 								    </div>
 								</div>
