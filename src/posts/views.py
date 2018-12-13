@@ -17,7 +17,7 @@ from comments.models import Comment
 
 from .forms import PostForm
 from .models import Post
-from .utils import get_read_time
+
 
 
 def post_create(request):
@@ -52,12 +52,6 @@ def post_detail(request, slug):
 
 	share_string = quote(instance.content)
 
-
-	# print(get_read_time(instance.content))
-	print(get_read_time(instance.get_markdown()))
-
-
-
 	initial_data = {
 		"content_type": instance.get_content_type,
 		"object_id": instance.id
@@ -65,7 +59,7 @@ def post_detail(request, slug):
 	
 	form = CommentForm(request.POST or None, initial=initial_data)
 
-	if form.is_valid():
+	if form.is_valid() and  request.user.is_authenticated():
 		c_type = form.cleaned_data.get("content_type")
 		content_type = ContentType.objects.get(model=c_type)
 		obj_id = form.cleaned_data.get("object_id")

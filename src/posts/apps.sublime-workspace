@@ -4,16 +4,52 @@
 		"selected_items":
 		[
 			[
-				"conten",
-				"content"
+				"User",
+				"UserRegisterForm"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"login",
+				"login_view"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"paren",
+				"parent_obj"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"comm",
+				"comment_delete"
+			],
+			[
+				"read_time",
+				"read_time_var"
 			],
 			[
 				"get",
 				"get_read_time"
 			],
 			[
-				"re",
-				"read_time_min"
+				"conten",
+				"content"
 			],
 			[
 				"html",
@@ -48,10 +84,6 @@
 				"content_data"
 			],
 			[
-				"H",
-				"HttpResponseRedirect"
-			],
-			[
 				"content",
 				"content_type"
 			],
@@ -66,10 +98,6 @@
 			[
 				"ob",
 				"object_id"
-			],
-			[
-				"conte",
-				"content_type"
 			],
 			[
 				"margin",
@@ -439,24 +467,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "views.py",
-			"settings":
-			{
-				"buffer_size": 4329,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "utils.py",
-			"settings":
-			{
-				"buffer_size": 406,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -534,27 +544,32 @@
 	[
 		"/C/Users/DELL/Desktop/Jango",
 		"/C/Users/DELL/Desktop/Jango/src",
+		"/C/Users/DELL/Desktop/Jango/src/accounts",
 		"/C/Users/DELL/Desktop/Jango/src/comments",
-		"/C/Users/DELL/Desktop/Jango/src/comments/migrations",
 		"/C/Users/DELL/Desktop/Jango/src/myproject",
-		"/C/Users/DELL/Desktop/Jango/src/posts",
-		"/C/Users/DELL/Desktop/Jango/src/posts/templates",
 		"/C/Users/DELL/Desktop/Jango/src/templates"
 	],
 	"file_history":
 	[
-		"/C/Users/DELL/Desktop/Jango/src/templates/comment_thread.html",
-		"/C/Users/DELL/Desktop/Jango/src/templates/post_detail.html",
-		"/C/Users/DELL/Desktop/Jango/src/comments/models.py",
-		"/C/Users/DELL/Desktop/Jango/src/comments/views.py",
-		"/C/Users/DELL/Desktop/Jango/src/myproject/urls.py",
-		"/C/Users/DELL/Desktop/Jango/src/posts/views.py",
-		"/C/Users/DELL/Desktop/Jango/src/comments/url.py",
 		"/C/Users/DELL/Desktop/Jango/src/templates/base.html",
-		"/C/Users/DELL/Desktop/Jango/src/comments/forms.py",
-		"/C/Users/DELL/Desktop/Jango/src/posts/models.py",
-		"/C/Users/DELL/Desktop/Jango/src/comments/admin.py",
+		"/C/Users/DELL/Desktop/Jango/src/templates/post_detail.html",
+		"/C/Users/DELL/Desktop/Jango/src/posts/views.py",
+		"/C/Users/DELL/Desktop/Jango/src/comments/views.py",
 		"/C/Users/DELL/Desktop/Jango/src/myproject/settings.py",
+		"/C/Users/DELL/Desktop/Jango/src/comments/urls.py",
+		"/C/Users/DELL/Desktop/Jango/src/myproject/urls.py",
+		"/C/Users/DELL/Desktop/Jango/src/accounts/forms.py",
+		"/C/Users/DELL/Desktop/Jango/src/accounts/views.py",
+		"/C/Users/DELL/Desktop/Jango/src/templates/confirm_delete.html",
+		"/C/Users/DELL/Desktop/Jango/src/comments/models.py",
+		"/C/Users/DELL/Desktop/Jango/src/templates/comment_thread.html",
+		"/C/Users/DELL/Desktop/Jango/src/templates/form.html",
+		"/C/Users/DELL/Desktop/Jango/src/templates/forms.html",
+		"/C/Users/DELL/Desktop/Jango/src/posts/utils.py",
+		"/C/Users/DELL/Desktop/Jango/src/posts/models.py",
+		"/C/Users/DELL/Desktop/Jango/src/comments/url.py",
+		"/C/Users/DELL/Desktop/Jango/src/comments/forms.py",
+		"/C/Users/DELL/Desktop/Jango/src/comments/admin.py",
 		"/C/Users/DELL/Desktop/Jango/src/templates/post_form.html",
 		"/C/Users/DELL/Desktop/Jango/src/templates/post_list.html",
 		"/C/Users/DELL/Desktop/Jango/src/static/css/base.css",
@@ -663,14 +678,7 @@
 		"/C/Program Files/Sublime Text 3/file.cpp",
 		"/C/Users/DELL/Desktop/DVRouting.txt",
 		"/C/Users/DELL/Desktop/DVRouting.java",
-		"/C/Program Files/Sublime Text 3/DVRouting.java",
-		"/C/Program Files/Sublime Text 3/atcoder.cpp",
-		"/C/Program Files/Sublime Text 3/convex_hull_dp.cpp",
-		"/C/Users/DELL/Desktop/mood.cpp",
-		"/C/Program Files/Sublime Text 3/lcs.cpp",
-		"/C/Program Files/Sublime Text 3/code.cpp",
-		"/C/Program Files/Sublime Text 3/hills.cpp",
-		"/C/Users/DELL/Desktop/inputting_file.txt"
+		"/C/Program Files/Sublime Text 3/DVRouting.java"
 	],
 	"find":
 	{
@@ -709,66 +717,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4329,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1459,
-								1459
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 364.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "utils.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 406,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								406,
-								406
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
